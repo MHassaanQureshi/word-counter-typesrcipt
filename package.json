@@ -1,0 +1,13 @@
+{
+  "name": "hassaan-word-counterv3",
+  "version": "1.0.2",
+  "main": "index.js",
+  "bin":"index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
